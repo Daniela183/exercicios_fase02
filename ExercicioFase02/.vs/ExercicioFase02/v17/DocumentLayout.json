@@ -1,42 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\",
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AA4B4C5-711B-48F9-B94E-DBAEDECDE2DD}|Exercicio14\\Exercicio14.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9AA4B4C5-711B-48F9-B94E-DBAEDECDE2DD}|Exercicio14\\Exercicio14.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicio_fase02\\exerciciofase02\\exercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AA4B4C5-711B-48F9-B94E-DBAEDECDE2DD}|Exercicio14\\Exercicio14.csproj|solutionrelative:exercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4609E381-E8E3-4F2D-8D5F-0884AC58BACA}|Exercicio12\\Exercicio12.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4609E381-E8E3-4F2D-8D5F-0884AC58BACA}|Exercicio12\\Exercicio12.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicio_fase02\\exerciciofase02\\exercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4609E381-E8E3-4F2D-8D5F-0884AC58BACA}|Exercicio12\\Exercicio12.csproj|solutionrelative:exercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88A5DCDC-13F9-46DE-9C5E-516A7AF9B93A}|Exercicio11\\Exercicio11.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A5DCDC-13F9-46DE-9C5E-516A7AF9B93A}|Exercicio11\\Exercicio11.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicio_fase02\\exerciciofase02\\exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A5DCDC-13F9-46DE-9C5E-516A7AF9B93A}|Exercicio11\\Exercicio11.csproj|solutionrelative:exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F00C5D8-E1D4-4BAB-B886-99412EC32B23}|Exercicio09\\Exercicio09.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F00C5D8-E1D4-4BAB-B886-99412EC32B23}|Exercicio09\\Exercicio09.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicio_fase02\\exerciciofase02\\exercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F00C5D8-E1D4-4BAB-B886-99412EC32B23}|Exercicio09\\Exercicio09.csproj|solutionrelative:exercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{861A0F9E-9E37-437E-B6BE-069B8B33F398}|Exercicio08\\Exercicio08.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{861A0F9E-9E37-437E-B6BE-069B8B33F398}|Exercicio08\\Exercicio08.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicio_fase02\\exerciciofase02\\exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{861A0F9E-9E37-437E-B6BE-069B8B33F398}|Exercicio08\\Exercicio08.csproj|solutionrelative:exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86F5B105-0205-4CBF-B004-D711490CD5D4}|Exercicio04\\Exercicio04.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86F5B105-0205-4CBF-B004-D711490CD5D4}|Exercicio04\\Exercicio04.csproj|solutionrelative:exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86F5B105-0205-4CBF-B004-D711490CD5D4}|Exercicio04\\Exercicio07.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicio_fase02\\exerciciofase02\\exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F5B105-0205-4CBF-B004-D711490CD5D4}|Exercicio04\\Exercicio07.csproj|solutionrelative:exercicio04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1470D9D0-3CA0-495B-9D2A-1EFF71EEC517}|Exercicio03\\Exercicio03.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1470D9D0-3CA0-495B-9D2A-1EFF71EEC517}|Exercicio03\\Exercicio03.csproj|solutionrelative:exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1470D9D0-3CA0-495B-9D2A-1EFF71EEC517}|Exercicio03\\Exercicio05.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicio_fase02\\exerciciofase02\\exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1470D9D0-3CA0-495B-9D2A-1EFF71EEC517}|Exercicio03\\Exercicio05.csproj|solutionrelative:exercicio03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAA0408E-E4A8-4360-81AB-B5C45FF3F70C}|Exercicio01\\Exercicio01.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAA0408E-E4A8-4360-81AB-B5C45FF3F70C}|Exercicio01\\Exercicio01.csproj|solutionrelative:exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercicio01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A10BA612-970B-4199-921A-DE76CEDE0E8C}|ExercicioProposto\\ExercicioProposto.csproj|c:\\users\\danie\\desktop\\cursoc#\\exercicios_fase02\\exerciciofase02\\exercicioproposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10BA612-970B-4199-921A-DE76CEDE0E8C}|ExercicioProposto\\ExercicioProposto.csproj|solutionrelative:exercicioproposto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\ExercicioProposto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,9 +55,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio14\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio14\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio14\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio14\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio14\\Program.cs",
               "RelativeToolTip": "Exercicio14\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,105 +68,97 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio12\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio12\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio12\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio12\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio12\\Program.cs",
               "RelativeToolTip": "Exercicio12\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:36:47.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T21:36:47.982Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio11\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio11\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio11\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio11\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio11\\Program.cs",
               "RelativeToolTip": "Exercicio11\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:36:16.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T21:36:16.397Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio09\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio09\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio09\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio09\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio09\\Program.cs",
               "RelativeToolTip": "Exercicio09\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:34:52.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T21:34:52.788Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio08\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio08\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio08\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio08\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio08\\Program.cs",
               "RelativeToolTip": "Exercicio08\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:34:16.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T21:34:16.185Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio04\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio04\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio04\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio04\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio04\\Program.cs",
               "RelativeToolTip": "Exercicio04\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:29:37.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T21:29:37.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio03\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio03\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio03\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio03\\Program.cs",
               "RelativeToolTip": "Exercicio03\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:29:21.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T21:29:21.887Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio01\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio01\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio01\\Program.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio01\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio01\\Program.cs",
               "RelativeToolTip": "Exercicio01\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T21:28:57.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T21:28:57.053Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\ExercicioProposto\\Program.cs",
-              "RelativeDocumentMoniker": "ExercicioProposto\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\exercicios_fase02\\ExercicioFase02\\ExercicioProposto\\Program.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\ExercicioProposto\\Program.cs",
-              "RelativeToolTip": "ExercicioProposto\\Program.cs",
+              "RelativeToolTip": "..\\..\\exercicios_fase02\\ExercicioFase02\\ExercicioProposto\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T20:24:51.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T20:24:51.735Z"
             }
           ]
         }

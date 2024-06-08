@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio09\\Exercicio09.csproj": {}
+    "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio09\\Exercicio09.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio09\\Exercicio09.csproj": {
+    "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio09\\Exercicio09.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio09\\Exercicio09.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio09\\Exercicio09.csproj",
         "projectName": "Exercicio09",
-        "projectPath": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio09\\Exercicio09.csproj",
+        "projectPath": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio09\\Exercicio09.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicios_fase02\\ExercicioFase02\\Exercicio09\\obj\\",
+        "outputPath": "C:\\Users\\danie\\Desktop\\cursoC#\\exercicio_fase02\\ExercicioFase02\\Exercicio09\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
